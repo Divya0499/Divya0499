@@ -1,6 +1,6 @@
 ## Hi, I'm Divya 👋
 
-**Senior Frontend Engineer** · 4+ years building production web apps with **React, Next.js and TypeScript** · Chandigarh, India
+**Senior Frontend Engineer** · 4.5+ years building production web apps with **React, Next.js and TypeScript** · Chandigarh, India
 
 - 🛠️ Currently building **[PeopleDesk AI](https://github.com/Divya0499/peopledesk-ai)**, a multi-agent HR assistant (RAG + LangGraph workflows)
 - 💼 At CrossML I build AI-product frontends (procurement, travel booking, chat) and mentor junior developers
