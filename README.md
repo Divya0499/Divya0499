@@ -31,5 +31,4 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **[PeopleDesk AI](https://github.com/Divya0499/peopledesk-ai)** · [Live](https://peopledesk-ai.vercel.app) | Multi-agent HR assistant: answers policy questions from PDFs with citations, and runs a leave-request workflow with manager approval | Next.js, TypeScript, Gemini, Pinecone, LangGraph |
-| **[CryptoTracker](https://github.com/Divya0499/crypto-tracker-app)** · [Live](https://crypto-tracker-app-one-gamma.vercel.app) | Responsive crypto tracker with live market data and currency conversion | React, React Router |
-| **[DataGrid Manager](https://github.com/Divya0499/DataGrid_Manager)** | CRUD data grid with forms and validation | React, TypeScript, MUI, Formik, Yup |
+
